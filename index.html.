@@ -1,2 +1,16 @@
 
-index.html
+
+<section class="card">
+  <h2>Let's Connect</h2>
+  <p><strong>Location:</strong> Bengaluru, Karnataka, India</p>
+  <p>
+    <strong>Email:</strong>
+    <a href="mailto:rkconnects365@gmail.com">
+      rkconnects365@gmail.com
+    </a>
+  </p>
+
+  <a class="button" href="mailto:rkconnects365@gmail.com">
+    Email Us
+  </a>
+</section>
